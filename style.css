@@ -1,0 +1,7 @@
+.board {
+    width: 800px;
+    height: 700px;
+    background-color: lightgreen;
+    position: relative;
+}
+
